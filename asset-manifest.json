@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dndboxdemo/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/dndboxdemo/static/js/main.35504c9f.chunk.js",
+    "main.js.map": "/dndboxdemo/static/js/main.35504c9f.chunk.js.map",
+    "runtime-main.js": "/dndboxdemo/static/js/runtime-main.b3fe515a.js",
+    "runtime-main.js.map": "/dndboxdemo/static/js/runtime-main.b3fe515a.js.map",
+    "static/js/2.f729aceb.chunk.js": "/dndboxdemo/static/js/2.f729aceb.chunk.js",
+    "static/js/2.f729aceb.chunk.js.map": "/dndboxdemo/static/js/2.f729aceb.chunk.js.map",
+    "static/js/3.ea9a2f09.chunk.js": "/dndboxdemo/static/js/3.ea9a2f09.chunk.js",
+    "static/js/3.ea9a2f09.chunk.js.map": "/dndboxdemo/static/js/3.ea9a2f09.chunk.js.map",
+    "index.html": "/dndboxdemo/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/dndboxdemo/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.f729aceb.chunk.js.LICENSE.txt": "/dndboxdemo/static/js/2.f729aceb.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dndboxdemo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b3fe515a.js",
+    "static/js/2.f729aceb.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.35504c9f.chunk.js"
+  ]
+}
